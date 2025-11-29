@@ -33,11 +33,11 @@ h1 align="center">👋 Bonjour, moi c'est <strong>awxzed</strong></h1>
 
 <p align="center">
   <img height="165" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=awxzed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+       src="https://github-readme-stats.vercel.app/api?username=awxzed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
        alt="GitHub stats" />
        
   <img height="165" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=awxzed&layout=compact&theme=tokyonight" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=awxzed&layout=compact&theme=tokyonight" 
        alt="Top languages" />
 </p>
 
