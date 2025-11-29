@@ -1,4 +1,4 @@
-h1 align="center">👋 Bonjour, moi c'est <strong>awxzed</strong></h1>
+<h1 align="center">👋 Bonjour, moi c'est <strong>awxzed</strong></h1>
 <h3 align="center">Développeur Full-Stack ✨</h3>
 
 ---
@@ -12,17 +12,17 @@ h1 align="center">👋 Bonjour, moi c'est <strong>awxzed</strong></h1>
 
 ## 🔧 Tech & Outils que je maîtrise
 
-### 🧠 **Langages**
+### 🧠 Langages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,java,js,php,python,html,css,sql" />
 </p>
 
-### 🏗️ **Frameworks & Libraries**
+### 🏗️ Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,symfony" />
 </p>
 
-### 🛠️ **Outils & DevOps**
+### 🛠️ Outils & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode" />
 </p>
@@ -39,7 +39,7 @@ h1 align="center">👋 Bonjour, moi c'est <strong>awxzed</strong></h1>
 </p>
 
 <p align="center">
-  <!-- Langages sous forme de badges (responsive) -->
+  <!-- Langages sous forme de badges (responsive et fiable) -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -54,7 +54,7 @@ h1 align="center">👋 Bonjour, moi c'est <strong>awxzed</strong></h1>
 </p>
 
 <p align="center">
-  <!-- GitHub Profile Trophy (optionnel, super esthétique) -->
+  <!-- GitHub Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=awxzed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
