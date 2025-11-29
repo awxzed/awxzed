@@ -29,11 +29,11 @@
 
 ---
 
-# 📊 Stats GitHub
+## 📊 Stats GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.dev/api?username=awxzed&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.dev/api/top-langs/?username=awxzed&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.quantumlytangled.vercel.app/api?username=awxzed&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=awxzed&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
@@ -41,6 +41,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/awxzed/awxzed/main/assets/zed.gif" width="300" alt="Zed GIF" />
 </p>
+
 
 ---
 
