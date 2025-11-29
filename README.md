@@ -33,7 +33,7 @@ h1 align="center">👋 Bonjour, moi c'est <strong>awxzed</strong></h1>
 
 <!-- Stats GitHub -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awxzed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awxzed&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages sous forme de badges -->
