@@ -32,14 +32,14 @@
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.quantumlytangled.vercel.app/api?username=awxzed&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=awxzed&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=awxzed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awxzed&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/awxzed/awxzed/main/assets/zed.gif" width="300" alt="Zed GIF" />
+  <img src="https://raw.githubusercontent.com/awxzed/awxzed/main/assets/galaxyslayer-galaksikatili.gif" width="300" alt="Galaxy Slayer Zed GIF" />
 </p>
 
 
