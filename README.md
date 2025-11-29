@@ -39,8 +39,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzc5Z3l3dHo2NzdsaG56Z2wwemJ0ODAzcDc4dWZteWt6bWZwdDdvaCZlcD12MV9pbnRlcm5hbF9naWZfYnk&t=200&ct=g/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </p>
+
 
 ---
 
