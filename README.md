@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bonjour, moi c'est <strong>awxzed</strong></h1>
+h1 align="center">👋 Bonjour, moi c'est <strong>awxzed</strong></h1>
 <h3 align="center">Développeur Full-Stack ✨</h3>
 
 ---
@@ -32,10 +32,14 @@
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=awxzed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awxzed&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="165" 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=awxzed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+       alt="GitHub stats" />
+       
+  <img height="165" 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=awxzed&layout=compact&theme=tokyonight" 
+       alt="Top languages" />
 </p>
-
 
 ---
 
@@ -43,9 +47,8 @@
   <img src="https://raw.githubusercontent.com/awxzed/awxzed/main/assets/galaxyslayer-galaksikatili.gif" width="300" alt="Galaxy Slayer Zed GIF" />
 </p>
 
-
 ---
 
 ## 📫 Me contacter
 - ✉️ Email : *aylou58@gmail.com*  
-- 🌐 Portfolio / *https://awxzed.github.io/aymen/*  
+- 🌐 Portfolio : *https://awxzed.github.io/aymen/*
