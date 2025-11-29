@@ -32,9 +32,10 @@
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=awxzed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awxzed&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=awxzed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awxzed&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
+
 
 ---
 
