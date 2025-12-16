@@ -1,12 +1,5 @@
-<h1 align="center">👋 Bonjour, moi c'est <strong>Aymen</strong></h1>
+<h1 align="center">👋 Bonjour, moi c'est <strong>Zed</strong></h1>
 <h3 align="center">Développeur Full-Stack ✨</h3>
-
----
-
-## 🚀 À propos de moi
-
-- 💻 Développeur maîtrisant un large éventail de technologies (frontend, backend & data)  
-- 🎯 J’adore créer, optimiser et comprendre comment les choses fonctionnent  
 
 ---
 
