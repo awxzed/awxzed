@@ -1,9 +1,5 @@
-<h1 align="center">👋 Bonjour, moi c'est <strong>Zed</strong></h1>
-<h3 align="center">Développeur Full-Stack ✨</h3>
 
----
-
-## 🔧 Tech & Outils que je maîtrise
+## 🔧 Tech & Outils
 
 ### 🧠 Langages
 <p align="left">
@@ -24,5 +20,5 @@
 ---
 
 ## 📫 Me contacter
-- ✉️ Email : *aylou58@gmail.com*  
-- 🌐 Portfolio : *https://awxzed.github.io/Portfolio_2025/*
+- ✉️ Email : *zedawx@gmail.com*  
+
