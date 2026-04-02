@@ -19,6 +19,3 @@
 ---
 ---
 
-## 📫 Me contacter
-- ✉️ Email : *zedawx@gmail.com*  
-
